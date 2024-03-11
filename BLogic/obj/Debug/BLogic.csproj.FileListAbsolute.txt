@@ -1,0 +1,134 @@
+E:\kekit\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+E:\kekit\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\bin\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\bin\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\obj\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\Laba1\BLogic\obj\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\bin\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\bin\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba1\BLogic\obj\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\CommonServiceLocator.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\System.Windows.Interactivity.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.xml
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.Wpf.dll
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.xml
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.Wpf.pdb
+E:\kekit\semestr3\c#\Laba1\BLogic\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\CommonServiceLocator.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\BLogic.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\BLogic.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\Model.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\obj\Debug\BLogic.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\obj\Debug\BLogic.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\BLogic.dll.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\Dapper.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\Model.dll.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\Dapper.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.dll.config
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\CommonServiceLocator.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\Dapper.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\System.Windows.Interactivity.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.dll.config
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\Model.dll.config
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\Dapper.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\kekit\semestr3\c#\Laba2\BLogic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\kekit\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+E:\kekit\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba2\BLogic\obj\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\BLogic.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\DataAccessLayer.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\Model.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\Dapper.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\BLogic\bin\Debug\EntityFramework.SqlServer.xml

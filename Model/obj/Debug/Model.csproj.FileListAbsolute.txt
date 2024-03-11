@@ -1,0 +1,68 @@
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\CommonServiceLocator.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\System.Windows.Interactivity.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.xml
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\CommonServiceLocator.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\obj\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\obj\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\Model.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\obj\Debug\Model.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\obj\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\Model.dll.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\Dapper.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\Dapper.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\Model.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\EntityFramework.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\Dapper.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\EntityFramework.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\Model\bin\Debug\EntityFramework.SqlServer.xml

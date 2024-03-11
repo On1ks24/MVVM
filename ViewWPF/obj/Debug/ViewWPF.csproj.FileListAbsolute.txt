@@ -1,0 +1,167 @@
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\ViewWPF.exe.config
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\ViewWPF.exe
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\ViewWPF.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\CommonServiceLocator.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.csproj.SuggestedBindingRedirects.cache
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\MainWindow.g.cs
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\App.g.cs
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.cache
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.lref
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\MainWindow.baml
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.g.resources
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.Properties.Resources.resources
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.csproj.GenerateResource.cache
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.csproj.CopyComplete
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.exe
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\ViewWPF.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\AddStudent.g.cs
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\AddStudent.baml
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\LiveCharts.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\LiveCharts.Wpf.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\LiveCharts.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\LiveCharts.Wpf.pdb
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\Hystogramm.g.cs
+E:\kekit\semestr3\c#\Laba1\ViewWPF\obj\Debug\Hystogramm.baml
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\System.ValueTuple.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\kekit\semestr3\c#\Laba1\ViewWPF\bin\Debug\WPFToolkit.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.exe.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.exe
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\CommonServiceLocator.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\AddStudent.g.cs
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\Hystogramm.g.cs
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\MainWindow.g.cs
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\App.g.cs
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.lref
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\AddStudent.baml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\Hystogramm.baml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\MainWindow.baml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.g.resources
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.Properties.Resources.resources
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.GenerateResource.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.exe
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\ViewWPF.exe.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\ViewWPF.exe
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\ViewWPF.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\BLogic.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\WPFToolkit.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\Model.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\BLogic.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\AddStudent.g.cs
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\Hystogramm.g.cs
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\App.g.cs
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.lref
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\AddStudent.baml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\Hystogramm.baml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\MainWindow.baml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.g.resources
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.Properties.Resources.resources
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CopyComplete
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.exe
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\obj\Debug\ViewWPF.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\Dapper.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\BLogic.dll.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ViewWPF\bin\Debug\Model.dll.config
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.exe.config
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.exe
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\ViewWPF.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\CommonServiceLocator.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\Dapper.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\EntityFramework.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\System.Windows.Interactivity.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\System.ValueTuple.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\WPFToolkit.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.dll.config
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.dll.config
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.dll.config
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.SuggestedBindingRedirects.cache
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\AddStudent.g.cs
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\Hystogramm.g.cs
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\MainWindow.g.cs
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\App.g.cs
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.cache
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF_MarkupCompile.lref
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\AddStudent.baml
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\Hystogramm.baml
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\MainWindow.baml
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.g.resources
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.Properties.Resources.resources
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.GenerateResource.cache
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.csproj.CopyComplete
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.exe
+E:\kekit\semestr3\c#\Laba2\ViewWPF\obj\Debug\ViewWPF.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\EntityFramework.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\BLogic.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\DataAccessLayer.dll.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ViewWPF\bin\Debug\Model.dll.config

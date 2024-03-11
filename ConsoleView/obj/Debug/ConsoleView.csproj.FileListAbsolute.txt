@@ -1,0 +1,56 @@
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\ConsoleView.exe.config
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\ConsoleView.exe
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\ConsoleView.pdb
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\BLogic.dll
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\GalaSoft.MvvmLight.dll
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\BLogic.pdb
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\GalaSoft.MvvmLight.xml
+E:\kekit\semestr3\c#\Laba1\ConsoleView\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.csproj.SuggestedBindingRedirects.cache
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.csproj.CopyComplete
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.exe
+E:\kekit\semestr3\c#\Laba1\ConsoleView\obj\Debug\ConsoleView.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\ConsoleView.exe.config
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\ConsoleView.exe
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\ConsoleView.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\BLogic.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\Model.dll
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\BLogic.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\bin\Debug\Model.pdb
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.exe
+C:\Users\sarae\source\repos\semestr3\c#\Laba2\ConsoleView\obj\Debug\ConsoleView.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\ConsoleView.exe.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\ConsoleView.exe
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\ConsoleView.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\BLogic.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\Model.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\BLogic.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\Model.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.csproj.CopyComplete
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.exe
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\obj\Debug\ConsoleView.pdb
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\Dapper.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\BLogic.dll.config
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\Dapper.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Downloads\Laba2 (1)\Laba2\ConsoleView\bin\Debug\Model.dll.config
